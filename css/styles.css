@@ -64,7 +64,7 @@ h1 {
 .circle {
     width: 20px;
     height: 20px;
-    background-color: #483978;
+    background-color: #5C946E;
     border-radius: 100%;
     z-index: 99;
     align-self: center;
@@ -107,7 +107,7 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: #483978;
+    background-color: #80C2AF;
     color: white;
     font-size: 18px;
     padding-bottom: 2em;
@@ -144,7 +144,7 @@ ul {
     margin-top: 1em;
     padding: 1em;
     margin-bottom: 1em;
-    border: 2px solid #483978;
+    border: 2px solid #80C2AF;
 }
 
 section.repo-data {
@@ -173,7 +173,7 @@ section.repo-data {
 .repo-list li {
     width: 90%;
     margin: 1em 0;
-    border: 1px solid #f86d58;
+    border: 1px solid #3c4142;
     padding: 0.5em;
 }
 
@@ -209,8 +209,8 @@ section.repo-data {
     margin-top: 2em;
     cursor: pointer;
     display: block;
-    background-color: #483978;
-    border: 1px solid #483978;
+    background-color: #80C2AF;
+    border: 1px solid #80C2AF;
 }
 
 .repo-data .visit:hover {

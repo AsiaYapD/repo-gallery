@@ -8,7 +8,7 @@ const gitUserInfo = async function () {
     const userInfo = await fetch(`https://api.github.com/users/${username}`);
     const data = await userInfo.json();
     //console.log(data);
-
+    displayUserInfo(data);
 };
 
 gitUserInfo();
