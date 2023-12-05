@@ -108,7 +108,7 @@ ul {
     flex-wrap: wrap;
     justify-content: center;
     background-color: #80C2AF;
-    color: white;
+    color: #3c4142;
     font-size: 18px;
     padding-bottom: 2em;
 }
@@ -135,7 +135,7 @@ ul {
     width: 100%;
     margin: 0;
     padding: 0;
-    border-bottom: 1px solid #9b8dc9;
+    border-bottom: 1px solid #3c4142;
     padding-bottom: 19px;
 }
 
